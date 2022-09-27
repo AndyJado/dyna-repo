@@ -1,6 +1,5 @@
 $# LS-PrePost command file created by LS-PrePost(R) V4.7.7 - 17Feb2020 -64bit-Window
-$# Created on Sep-22-2022 (12:09:17)
-openc keyword "\\wsl.localhost\Ubuntu\home\da\dyna-repo\src\fix.k"
+$# Created on Sep-27-2022 (12:38:54)
+openc keyword "\\wsl.localhost\Ubuntu\home\da\dyna-repo\src\main.k"
 Message 1
 Message 0
-selectentity getalllabel
