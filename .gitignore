@@ -6,3 +6,14 @@ src/materials/lspost.cfile
 src/materials/lspost.msg
 src/sections/lspost.cfile
 src/sections/lspost.msg
+src/.DS_Store
+src/lspost.cfile
+src/lspost.db
+src/lspost.msg
+src/models/.DS_Store
+src/models/lspost.msg
+src/models/lspost.cfile
+src/materials/.DS_Store
+src/models/lspost.cfile
+src/models/lspost.msg
+src/sections/.DS_Store
