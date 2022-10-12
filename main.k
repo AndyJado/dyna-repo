@@ -11,12 +11,4 @@ $#      fs        fd        dc        vc       vdc    penchk        bt        dt
        0.0       0.0       0.0       0.0       0.0         0       0.01.00000E20
 $#     sfs       sfm       sst       mst      sfst      sfmt       fsf       vsf
        1.0       1.0       0.0       0.0       1.0       1.0       1.0       1.0
-*INCLUDE
-.\materials\steel.k
-.\materials\soil.k
-.\sections\polo.k
-.\sections\soil.k
-*INCLUDE_AUTO_OFFSET
-.\models\shells.k
-.\models\solids.k
 *END
